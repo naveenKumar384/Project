@@ -1065,7 +1065,7 @@ h4{
         margin-top: 35px;
     }
 }
-@media (max-width:480px){
+@media (max-width:528px){
     section{
         margin: 88px 0px;
     }
@@ -1099,7 +1099,7 @@ h4{
         border-radius: 5px;
     }
     .hero .content{
-        margin-top: 380px;
+        margin-top: 180px;
         margin-left: 35px;
     }
     .hero .container{
